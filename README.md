@@ -6,4 +6,7 @@ ví dụ: C:\Programfile\SQL SEVER\MSSQL16.MSSQLSERVER tùy vào cách cài đ�
  LOG ON 
 ( NAME = N'Test_Log', FILENAME = N'D:\SQL SEVER\MSSQL16.MSSQLSERVER\MSSQL\DATA\Test_Log.ldf' , SIZE = 10240KB , MAXSIZE = 40960KB , FILEGROWTH = 3072KB )
 Bước 3: click Execute
-chạy file cs
+---------------
+Chạy file sln
+Bước 1: Mở file sln
+Bước 2: Tại class connect của lớp DAL thay đổi server name localhost thành tên server name của sql tại máy
