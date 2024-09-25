@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|d:\\downloads\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n - 3 layer\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\vattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|solutionrelative:qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\vattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|d:\\downloads\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n - 3 layer\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\vattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|solutionrelative:qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\vattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|d:\\downloads\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n - 3 layer\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\resources\\saveall_32x32.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|solutionrelative:qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\resources\\saveall_32x32.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\chitietvattudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\chitietvattudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\dichvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\dichvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|d:\\downloads\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n - 3 layer\\dto\\vattudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\vattudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\dangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\dangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|solutionrelative:qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|solutionrelative:qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4480C09-B451-4DC7-8736-982F3F0CE862}|DAL\\DAL.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dal\\dangnhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4480C09-B451-4DC7-8736-982F3F0CE862}|DAL\\DAL.csproj|solutionrelative:dal\\dangnhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474D5F1B-3FAC-44FB-A2F1-9B4CA22466B1}|BLL\\BLL.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474D5F1B-3FAC-44FB-A2F1-9B4CA22466B1}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|d:\\downloads\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n - 3 layer\\dto\\lichsudangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\lichsudangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\phieudatphongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\phieudatphongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\phieunhanphongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\phieunhanphongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\danhsachphongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\danhsachphongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dto\\taikhoandangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17359E0F-96DF-4E1C-A3B4-6C7A9EE03D27}|DTO\\DTO.csproj|solutionrelative:dto\\taikhoandangnhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{280665A4-1794-43DC-B142-A9A2F3178F30}|Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|solutionrelative:qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4480C09-B451-4DC7-8736-982F3F0CE862}|DAL\\DAL.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dal\\vattudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4480C09-B451-4DC7-8736-982F3F0CE862}|DAL\\DAL.csproj|solutionrelative:dal\\vattudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4480C09-B451-4DC7-8736-982F3F0CE862}|DAL\\DAL.csproj|D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\dal\\chitiettaikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4480C09-B451-4DC7-8736-982F3F0CE862}|DAL\\DAL.csproj|solutionrelative:dal\\chitiettaikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "saveall_32x32.png - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Resources\\saveall_32x32.png",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Resources\\saveall_32x32.png",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Resources\\saveall_32x32.png - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Resources\\saveall_32x32.png - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-25T03:15:22.023Z",
+              "EditorCaption": " - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VatTu.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\VatTu.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\VatTu.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\VatTu.cs*",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\VatTu.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:13:29.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VatTu.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\VatTu.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\VatTu.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\VatTu.cs [Design]*",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\VatTu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:13:19.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VatTuDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\VatTuDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\VatTuDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\VatTuDTO.cs",
+              "RelativeToolTip": "DTO\\VatTuDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:10:40.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Login.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Login.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Login.cs",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Login.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:38:48.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhanVienDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\NhanVienDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NhanVienDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\NhanVienDTO.cs",
+              "RelativeToolTip": "DTO\\NhanVienDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:08:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhapDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\DangNhapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DangNhapDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\DangNhapDTO.cs",
+              "RelativeToolTip": "DTO\\DangNhapDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:02:18.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DichVuDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\DichVuDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DichVuDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\DichVuDTO.cs",
+              "RelativeToolTip": "DTO\\DichVuDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:23:45.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChiTietVatTuDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\ChiTietVatTuDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietVatTuDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\ChiTietVatTuDTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietVatTuDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:06:00.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Login.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Login.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Login.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:38:03.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangNhapDAL.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DAL\\DangNhapDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DangNhapDAL.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DAL\\DangNhapDAL.cs",
+              "RelativeToolTip": "DAL\\DangNhapDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:09:42.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VatTuDAL.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DAL\\VatTuDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\VatTuDAL.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DAL\\VatTuDAL.cs",
+              "RelativeToolTip": "DAL\\VatTuDAL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:09:54.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\KhachHang.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\KhachHang.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:35:05.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhieuDatPhongDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\PhieuDatPhongDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PhieuDatPhongDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\PhieuDatPhongDTO.cs",
+              "RelativeToolTip": "DTO\\PhieuDatPhongDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:37:14.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LichSuDangNhapDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\LichSuDangNhapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LichSuDangNhapDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\LichSuDangNhapDTO.cs",
+              "RelativeToolTip": "DTO\\LichSuDangNhapDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:37:12.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DanhSachPhongDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\DanhSachPhongDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DanhSachPhongDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\DanhSachPhongDTO.cs",
+              "RelativeToolTip": "DTO\\DanhSachPhongDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:07:17.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:38:07.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PhieuNhanPhongDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\PhieuNhanPhongDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PhieuNhanPhongDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\PhieuNhanPhongDTO.cs",
+              "RelativeToolTip": "DTO\\PhieuNhanPhongDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:37:16.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HoaDonDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\HoaDonDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\HoaDonDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\HoaDonDTO.cs",
+              "RelativeToolTip": "DTO\\HoaDonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:06:22.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaiKhoanDangNhapDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\TaiKhoanDangNhapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TaiKhoanDangNhapDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\TaiKhoanDangNhapDTO.cs",
+              "RelativeToolTip": "DTO\\TaiKhoanDangNhapDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:00:38.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHangDTO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\KhachHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\KhachHangDTO.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DTO\\KhachHangDTO.cs",
+              "RelativeToolTip": "DTO\\KhachHangDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:08:30.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChiTietTaiKhoanDAL.cs",
+              "DocumentMoniker": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DAL\\ChiTietTaiKhoanDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietTaiKhoanDAL.cs",
+              "ToolTip": "D:\\Downloads\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n - 3 layer\\DAL\\ChiTietTaiKhoanDAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietTaiKhoanDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:38:09.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

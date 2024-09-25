@@ -1,0 +1,54 @@
+E:\TTCS1\Quản lý khách sạn\DTO\bin\Debug\DTO.pdb
+E:\TTCS1\Quản lý khách sạn\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\TTCS1\Quản lý khách sạn\DTO\obj\Debug\DTO.dll
+E:\TTCS1\Quản lý khách sạn\DTO\obj\Debug\DTO.pdb
+F:\TTCS1\Quản lý khách sạn\DTO\bin\Debug\DTO.pdb
+F:\TTCS1\Quản lý khách sạn\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\TTCS1\Quản lý khách sạn\DTO\obj\Debug\DTO.dll
+F:\TTCS1\Quản lý khách sạn\DTO\obj\Debug\DTO.pdb
+F:\Quản lý khách sạn\DTO\bin\Debug\DTO.pdb
+F:\Quản lý khách sạn\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Quản lý khách sạn\DTO\obj\Debug\DTO.dll
+F:\Quản lý khách sạn\DTO\obj\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DTO\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DTO\obj\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DTO\obj\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DTO\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.pdb
+D:\Windows NC\3 tầng\Quản lý khách sạn\DTO\bin\Debug\DTO.pdb
+D:\Windows NC\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Windows NC\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Windows NC\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Windows NC\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.dll
+D:\Windows NC\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DTO\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DTO\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DTO\obj\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DTO\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DTO\bin\Debug\DTO.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DTO\obj\Debug\DTO.pdb

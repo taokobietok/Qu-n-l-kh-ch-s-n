@@ -1,0 +1,400 @@
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe.config
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.SuggestedBindingRedirects.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Login.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Properties.Resources.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.GenerateResource.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe.licenses
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\BLL.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\BLL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Main.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.KiemTraPhongDat.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.ChiTietVatTu.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DichVu.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DoiMatKhau.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.HoaDon.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.KhachHang.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.LapPhieuDatPhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.LapPhieuNhanPhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.NhanVien.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuDatPhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuThuePhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Phong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TaiKhoan.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TraPhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.VatTu.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.UI.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.UI.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Nen.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe.config
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.pdb
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\BLL.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.CodeParser.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataAccess.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Drawing.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Xpo.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraBars.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.UI.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DTO.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DAL.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Office.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Images.v23.1.dll
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\BLL.pdb
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DTO.pdb
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataAccess.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Xpo.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraBars.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.UI.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Drawing.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DAL.pdb
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Office.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.AssemblyReference.cache
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.SuggestedBindingRedirects.cache
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Main.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.KiemTraPhongDat.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.ChiTietVatTu.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DichVu.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DoiMatKhau.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.HoaDon.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.KhachHang.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.LapPhieuDatPhong.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.LapPhieuNhanPhong.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Nen.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.NhanVien.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuDatPhong.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuThuePhong.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Phong.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TaiKhoan.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.ThongKe.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TraPhong.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.VatTu.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Login.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Phụ.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Properties.Resources.resources
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.GenerateResource.cache
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe.licenses
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.CoreCompileInputs.cache
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.CopyComplete
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe
+E:\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\stdole.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.BaoCaoHD.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.INHD.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.SuggestedBindingRedirects.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.BaoCaoHD.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Main.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.KiemTraPhongDat.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.ChiTietVatTu.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DichVu.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DoiMatKhau.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.HoaDon.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.KhachHang.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.LapPhieuDatPhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.LapPhieuNhanPhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Nen.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.NhanVien.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuDatPhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuThuePhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Phong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TaiKhoan.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TraPhong.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.VatTu.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Login.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Properties.Resources.resources
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.GenerateResource.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe.licenses
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe.config
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\BLL.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.UI.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\stdole.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\BLL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.UI.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.CopyComplete
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe.config
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\BLL.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DTO.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DAL.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Images.v23.1.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\stdole.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\BLL.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DTO.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.DataAccess.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Xpo.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.UI.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DAL.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.AssemblyReference.cache
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.BaoCaoHD.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Main.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.KiemTraPhongDat.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.ChiTietVatTu.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DichVu.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DoiMatKhau.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.HoaDon.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.KhachHang.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.LapPhieuDatPhong.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.LapPhieuNhanPhong.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Nen.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.NhanVien.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuDatPhong.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuThuePhong.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Phong.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TaiKhoan.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TraPhong.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.VatTu.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Login.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Properties.Resources.resources
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.GenerateResource.cache
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe.licenses
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.CoreCompileInputs.cache
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý .05878DF3.Up2Date
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb

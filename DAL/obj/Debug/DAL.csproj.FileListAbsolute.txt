@@ -1,0 +1,187 @@
+E:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\DAL.dll
+E:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\DAL.pdb
+E:\TTCS1\Quản lý khách sạn\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\TTCS1\Quản lý khách sạn\DAL\obj\Debug\DAL.dll
+E:\TTCS1\Quản lý khách sạn\DAL\obj\Debug\DAL.pdb
+E:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\DTO.dll
+E:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\DTO.pdb
+E:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\BLL.dll
+E:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\BLL.pdb
+F:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\DAL.dll
+F:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\DAL.pdb
+F:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\DTO.dll
+F:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\BLL.pdb
+F:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\DTO.pdb
+F:\TTCS1\Quản lý khách sạn\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\TTCS1\Quản lý khách sạn\DAL\obj\Debug\DAL.dll
+F:\TTCS1\Quản lý khách sạn\DAL\obj\Debug\DAL.pdb
+F:\TTCS1\Quản lý khách sạn\DAL\bin\Debug\BLL.dll
+F:\Quản lý khách sạn\DAL\bin\Debug\DAL.dll
+F:\Quản lý khách sạn\DAL\bin\Debug\DAL.pdb
+F:\Quản lý khách sạn\DAL\bin\Debug\BLL.dll
+F:\Quản lý khách sạn\DAL\bin\Debug\DTO.dll
+F:\Quản lý khách sạn\DAL\bin\Debug\BLL.pdb
+F:\Quản lý khách sạn\DAL\bin\Debug\DTO.pdb
+F:\Quản lý khách sạn\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Quản lý khách sạn\DAL\obj\Debug\DAL.dll
+F:\Quản lý khách sạn\DAL\obj\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DAL\bin\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DAL\bin\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DAL\bin\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DAL\obj\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\Quản lý khách sạn\DAL\obj\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\bin\Debug\BLL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\bin\Debug\BLL.pdb
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DAL.dll
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DAL.pdb
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\bin\Debug\BLL.dll
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DTO.dll
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\bin\Debug\BLL.pdb
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.dll
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\bin\Debug\BLL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\bin\Debug\BLL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\bin\Debug\BLL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\bin\Debug\BLL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\obj\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\3 tầng_chinh\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DTO.pdb
+D:\Windows NC\3 tầng\Quản lý khách sạn\DAL\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\BLL.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\BLL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DAL.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DAL.pdb
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\BLL.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.CodeParser.v23.1.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.DataAccess.v23.1.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Xpo.v23.1.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DTO.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Data.v23.1.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Office.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Drawing.v23.1.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\BLL.pdb
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.DataAccess.v23.1.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Xpo.v23.1.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DTO.pdb
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Data.v23.1.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Office.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Drawing.v23.1.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+E:\Quản Lý Khách Sạn\DAL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+E:\Quản Lý Khách Sạn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Quản Lý Khách Sạn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Quản Lý Khách Sạn\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Quản Lý Khách Sạn\DAL\obj\Debug\DAL.dll
+E:\Quản Lý Khách Sạn\DAL\obj\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn\DAL\bin\Debug\DTO.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\BLL.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.CodeParser.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.DataAccess.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Xpo.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DTO.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\BLL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.dll
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.pdb
+C:\Users\QUANGHUY\Desktop\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DTO.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DAL.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DAL.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\BLL.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DTO.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\BLL.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.DataAccess.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Xpo.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DTO.pdb
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.dll
+D:\Downloads\Quản Lý Khách Sạn - 3 layer\DAL\obj\Debug\DAL.pdb
